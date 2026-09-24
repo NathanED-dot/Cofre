@@ -1,0 +1,15 @@
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\bin\Debug\net10.0\CofreTarea.exe
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\bin\Debug\net10.0\CofreTarea.deps.json
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\bin\Debug\net10.0\CofreTarea.runtimeconfig.json
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\bin\Debug\net10.0\CofreTarea.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\bin\Debug\net10.0\CofreTarea.pdb
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.AssemblyInfoInputs.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.AssemblyInfo.cs
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.csproj.CoreCompileInputs.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\refint\CofreTarea.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.pdb
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.genruntimeconfig.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\ref\CofreTarea.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\GitHub Tarea\CofreMetodo\Cofre\CofreTarea\CofreTarea\obj\Debug\net10.0\CofreTarea.csproj.Up2Date
